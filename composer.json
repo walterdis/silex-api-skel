@@ -92,6 +92,7 @@
       }
   ],
   "require": {
+    "nesbot/carbon": "~1.14",
     "deralex/yaml-config-service-provider": "~1.0",
     "dflydev/doctrine-orm-service-provider": "*",
     "dflydev/composer-autoload": "dev-master",
